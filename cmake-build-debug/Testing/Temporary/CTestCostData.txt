@@ -1,0 +1,2 @@
+Fraction.DefaultConstructor 2 0.00365335
+---

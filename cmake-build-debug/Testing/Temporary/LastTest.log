@@ -1,0 +1,30 @@
+Start testing: Mar 24 20:26 EET
+----------------------------------------------------------
+1/1 Testing: Fraction.DefaultConstructor
+1/1 Test: Fraction.DefaultConstructor
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_3/cmake-build-debug/PR2_3_tests" "--gtest_filter=Fraction.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_3/cmake-build-debug
+"Fraction.DefaultConstructor" start time: Mar 24 20:26 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_3/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Fraction.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Fraction
+[ RUN      ] Fraction.DefaultConstructor
+[       OK ] Fraction.DefaultConstructor (0 ms)
+[----------] 1 test from Fraction (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Fraction.DefaultConstructor" end time: Mar 24 20:26 EET
+"Fraction.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 24 20:26 EET

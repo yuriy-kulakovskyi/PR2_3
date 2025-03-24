@@ -1,0 +1,17 @@
+# ninja log v6
+1	487	1742840726429724578	CMakeFiles/PR2_3.dir/main.cpp.o	e928d7853722ef38
+2	506	1742840726430923024	CMakeFiles/PR2_3_tests.dir/classes/Fraction.cpp.o	e3449a94978e80a2
+2	519	1742840726430367424	CMakeFiles/PR2_3.dir/classes/Fraction.cpp.o	8c05fafd6314f0eb
+519	644	1742840726947770972	PR2_3	d57286f6a3869847
+1	655	1742840726429606209	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	966ddf406a0f4e34
+489	1006	1742840726917265526	CMakeFiles/PR2_3_tests.dir/tests/tests.cpp.o	7e8e41a6374d759c
+506	1069	1742840726934591321	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	5011b841cc2cd529
+1	1105	1742840726429467548	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	eb3c375455eebbc3
+1	1687	1742840726429127647	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	86a3a36245e3b9a6
+1687	1725	1742840728115398067	lib/libgtest.a	b51b69e6de22023b
+1726	1745	1742840728153833901	lib/libgtest_main.a	ddd85a377c936fa9
+1725	1751	1742840728153631661	lib/libgmock.a	c8c98fe986cb389b
+1751	1772	1742840728179147083	lib/libgmock_main.a	c7b38932d055d06e
+1745	2777	1742840729203689395	PR2_3_tests	f27441923fed70c
+1745	2777	1742840729203689395	PR2_3_tests[1]_tests.cmake	f27441923fed70c
+1745	2777	1742840729203689395	/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_3/cmake-build-debug/PR2_3_tests[1]_tests.cmake	f27441923fed70c
